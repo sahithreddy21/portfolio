@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "AI-Powered Task Manager",
+      "description": "A productivity app that uses machine learning to prioritize tasks based on urgency, deadlines, and your personal work patterns.",
+      "tags": ["React", "Python", "TensorFlow", "PostgreSQL"],
+      "category": "Full Stack",
+      "year": 2025,
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Real-Time Chat Platform",
+      "description": "A scalable messaging platform supporting 10k+ concurrent users with end-to-end encryption, file sharing, and video calls.",
+      "tags": ["Node.js", "Socket.io", "Redis", "MongoDB"],
+      "category": "Backend",
+      "year": 2025,
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "E-Commerce Analytics Dashboard",
+      "description": "Interactive data visualization dashboard for tracking sales, customer behavior, and inventory across multiple storefronts.",
+      "tags": ["Vue.js", "D3.js", "Express", "MySQL"],
+      "category": "Frontend",
+      "year": 2024,
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com",
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Open Source CLI Toolkit",
+      "description": "A developer tool suite with 12 utilities for automating repetitive workflows. 2k+ stars on GitHub.",
+      "tags": ["Go", "Bash", "Docker"],
+      "category": "Tools",
+      "year": 2024,
+      "liveUrl": null,
+      "githubUrl": "https://github.com",
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Weather Microservice API",
+      "description": "RESTful microservice aggregating data from 5 weather providers with caching, rate limiting, and a unified response schema.",
+      "tags": ["Node.js", "Redis", "Docker", "AWS"],
+      "category": "Backend",
+      "year": 2024,
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "Portfolio Design System",
+      "description": "A component library of 40+ accessible UI components with Storybook docs, dark mode, and Figma token sync.",
+      "tags": ["React", "TypeScript", "Storybook", "CSS"],
+      "category": "Frontend",
+      "year": 2024,
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com",
+      "featured": false
+    }
+  ],
+  "skills": [
+    { "name": "JavaScript", "level": 93, "category": "Languages" },
+    { "name": "TypeScript", "level": 88, "category": "Languages" },
+    { "name": "Python", "level": 82, "category": "Languages" },
+    { "name": "Go", "level": 65, "category": "Languages" },
+    { "name": "React", "level": 95, "category": "Frontend" },
+    { "name": "Vue.js", "level": 68, "category": "Frontend" },
+    { "name": "CSS / Tailwind", "level": 90, "category": "Frontend" },
+    { "name": "Node.js", "level": 92, "category": "Backend" },
+    { "name": "Express", "level": 90, "category": "Backend" },
+    { "name": "Django", "level": 72, "category": "Backend" },
+    { "name": "PostgreSQL", "level": 85, "category": "Database" },
+    { "name": "MongoDB", "level": 60, "category": "Database" },
+    { "name": "Redis", "level": 75, "category": "Database" },
+    { "name": "Docker", "level": 82, "category": "DevOps" },
+    { "name": "AWS", "level": 92, "category": "DevOps" },
+    { "name": "CI/CD", "level": 80, "category": "DevOps" }
+  ],
+  "profile": {
+    "name": "Sahith Reddy",
+    "title": "Full-Stack Engineer",
+    "tagline": "I build things that scale — and that people actually enjoy using.",
+    "bio": "I'm a full-stack engineer with 2 years of experience building production-grade web applications. I care deeply about code quality, developer experience, and the intersection of performance and design.\n\nCurrently open to senior roles at product companies working on interesting infrastructure or user-facing challenges.",
+    "email": "sahith@example.com",
+    "github": "https://github.com/sahithreddy21",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "location": "Hyderabad, India",
+    "available": true
+  }
+}
